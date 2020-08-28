@@ -18,3 +18,18 @@ Without doing any kind of feature engineering or overfitting you should be able 
 
 ### Inspiration
 Use machine learning to determine which physiochemical properties make a wine 'good'
+
+## Dependencies
+
+- Python 3.6
+- Anaconda
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+## 📦 Install
+
+Open the code ```testing.py``` in Anaconda(Spyder environment) after downloading Anaconda and launchingSpyder environment for windows to simply run it. Before this save the csv files in a folder so that you can fetch it by putting the location of saved file in the code.
+
+Similarly use any other environment according to your preference and run the code line by line by pressing ```Ctrl+Enter```, with single or multiple selections.
+
