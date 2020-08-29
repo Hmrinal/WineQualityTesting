@@ -16,7 +16,7 @@ What might be an interesting thing to do, is aside from using regression modelli
 This allows you to practice with hyper parameter tuning on e.g. decision tree algorithms looking at the ROC curve and the AUC value.
 Without doing any kind of feature engineering or overfitting you should be able to get an AUC of .88 (without even using random forest algorithm)
 
-### Inspiration
+## Inspiration
 Use machine learning to determine which physiochemical properties make a wine 'good'
 
 ## Dependencies
