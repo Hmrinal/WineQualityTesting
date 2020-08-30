@@ -1,4 +1,13 @@
 # WineQualityTesting
+
+
+A dataset is taken which is saved as ```winequality-red.csv```. First step is to import the necessary libraries like pandas, sklearn, numpy, etc. After this the dataset is read using read_csv and subsequently the feature extraction takes place.
+Visualization of featues is done using the heatmap.
+
+
+A heat map is data analysis software that uses color the way a bar graph uses height and width: as a data visualization tool.
+
+
  ### Features taken into consideration:
 - fixed acidity : sort most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
 - volatile acidity: sort the amount of acetic acid in wine, which at too high of levels can lead to an unpleasant, vinegar taste
