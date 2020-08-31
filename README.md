@@ -9,6 +9,8 @@ A heat map is data analysis software that uses color the way a bar graph uses he
 A heat map uses a warm-to-cool color spectrum to show you which parts of a page receive the most attention.
 Heat maps display numeric tabular data where the cells are colored depending upon the contained value. Heat maps are great for making trends in this kind of data more readily apparent, particularly when the data is ordered and there is clustering.
 
+![Basic Heatmap View](basicHeatmap.png)
+
  ### Features taken into consideration:
 - fixed acidity : sort most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
 - volatile acidity: sort the amount of acetic acid in wine, which at too high of levels can lead to an unpleasant, vinegar taste
