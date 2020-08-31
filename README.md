@@ -4,7 +4,7 @@
 A dataset is taken which is saved as ```winequality-red.csv```. First step is to import the necessary libraries like pandas, sklearn, numpy, etc. After this the dataset is read using read_csv and subsequently the feature extraction takes place.
 Visualization of featues is done using the heatmap.
 
-
+### Heat Map
 A heat map is data analysis software that uses color the way a bar graph uses height and width: as a data visualization tool.
 A heat map uses a warm-to-cool color spectrum to show you which parts of a page receive the most attention.
 Heat maps display numeric tabular data where the cells are colored depending upon the contained value. Heat maps are great for making trends in this kind of data more readily apparent, particularly when the data is ordered and there is clustering.
