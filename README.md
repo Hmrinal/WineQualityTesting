@@ -4,6 +4,7 @@ A dataset is taken which is saved as ```winequality-red.csv```. First step is to
 Visualization of featues is done using the heatmap.
 
 - Working:
+After extracting the features, their impact on each other is described through heatmap. The darker colours show high impact and lighter ones show least impact.
 
 ![Heatmap View](heatmap.png)
 
@@ -25,6 +26,7 @@ Heat maps display numeric tabular data where the cells are colored depending upo
 - density: sort the density of water is close to that of water depending on the percent alcohol and sugar content
 - pH: sort describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic); most wines are between 3-4 on the pH scale
 - sulphates: sort a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial.
+
 ### Additional features that can be added
 
 What might be an interesting thing to do, is aside from using regression modelling, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as 'good/1' and the remainder as 'not good/0'.
