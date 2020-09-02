@@ -6,6 +6,15 @@ Visualization of featues is done using the heatmap.
 - Working:
 After extracting the features, their impact on each other is described through heatmap. The darker colours show high impact and lighter ones show least impact.You will probably need to normalise your matrix, choose a relevant colour palette, use cluster analysis and thus permute the rows and the columns of the matrix to place similar values near each other according to the clustering.
 
+### Heat Map
+A heat map (or heatmap) is a graphical representation of data where the individual values contained in a matrix are represented as colors.
+A heat map is data analysis software that uses color the way a bar graph uses height and width: as a data visualization tool.
+A heat map uses a warm-to-cool color spectrum to show you which parts of a page receive the most attention.
+Heat maps display numeric tabular data where the cells are colored depending upon the contained value. Heat maps are great for making trends in this kind of data more readily apparent, particularly when the data is ordered and there is clustering.
+
+![Basic Heatmap View](basicHeatmap.png)
+
+
 - Understanding heatmap:
 Each square shows the correlation between the variables on each axis. Correlation ranges from -1 to +1. Values closer to zero means there is no linear trend between the two variables. The close to 1 the correlation is the more positively correlated they are; that is as one increases so does the other and the closer to 1 the stronger this relationship is. A correlation closer to -1 is similar, but instead of both increasing one variable will decrease as the other increases. The diagonals are all 1/dark green because those squares are correlating each variable to itself (so it's a perfect correlation). For the rest the larger the number and darker the color the higher the correlation between the two variables. The plot is also symmetrical about the diagonal since the same two variables are being paired together in those squares.
 
