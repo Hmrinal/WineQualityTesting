@@ -1,4 +1,4 @@
-# WineQualityTesting
+# Wine Quality Testing
 
 A dataset is taken which is saved as ```winequality-red.csv```. First step is to import the necessary libraries like pandas, sklearn, numpy, etc. After this the dataset is read using read_csv and subsequently the feature extraction takes place.
 Visualization of featues is done using the heatmap.
