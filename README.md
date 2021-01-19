@@ -3,7 +3,7 @@
 A dataset is taken which is saved as ```winequality-red.csv```. First step is to import the necessary libraries like pandas, sklearn, numpy, etc. After this the dataset is read using read_csv and subsequently the feature extraction takes place.
 Visualization of featues is done using the heatmap.
 
-- Working:
+## Working:
 After extracting the features, their impact on each other is described through heatmap. The darker colours show high impact and lighter ones show least impact.You will probably need to normalise your matrix, choose a relevant colour palette, use cluster analysis and thus permute the rows and the columns of the matrix to place similar values near each other according to the clustering.
 After this the data is normalized and it is divided into test and training data. Linear Regression is carried out and any other technique can be used if the accuracy of model is enhanced, prediction is carried out and we get our output based on the features given.
 
