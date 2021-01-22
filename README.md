@@ -43,7 +43,8 @@ This allows you to practice with hyper parameter tuning on e.g. decision tree al
 Without doing any kind of feature engineering or overfitting you should be able to get an AUC of .88 (without even using random forest algorithm)
 
 ## Inspiration
-Use machine learning to determine which physiochemical properties make a wine 'good'
+
+Use machine learning to determine which physiochemical properties make a wine 'good'.
 
 
 ## Dependencies
