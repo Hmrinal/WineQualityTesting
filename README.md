@@ -24,7 +24,8 @@ Each square shows the correlation between the variables on each axis. Correlatio
 ![Heatmap View](heatmap.png)
 
 
- ### Features taken into consideration:
+ ### 🏷️ Features taken into consideration:
+ 
 - fixed acidity : sort most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
 - volatile acidity: sort the amount of acetic acid in wine, which at too high of levels can lead to an unpleasant, vinegar taste
 - citric acid: sort found in small quantities, citric acid can add 'freshness' and flavor to wines
