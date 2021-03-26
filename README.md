@@ -4,11 +4,13 @@ A dataset is taken which is saved as `winequality-red.csv`. First step is to imp
 Visualization of featues is done using the heatmap.
 
 ## 🔨 Basic Working:
+
 After extracting the features, their impact on each other is described through heatmap. The darker colours show high impact and lighter ones show least impact.You will probably need to normalise your matrix, choose a relevant colour palette, use cluster analysis and thus permute the rows and the columns of the matrix to place similar values near each other according to the clustering.
 After this the data is normalized and it is divided into test and training data. Linear Regression is carried out and any other technique can be used if the accuracy of model is enhanced, prediction is carried out and we get our output based on the features given.
 
 
 ### 🌡️ Heat Map
+
 A heat map (or heatmap) is a graphical representation of data where the individual values contained in a matrix are represented as colors.
 A heat map is data analysis software that uses color the way a bar graph uses height and width: as a data visualization tool.
 A heat map uses a warm-to-cool color spectrum to show you which parts of a page receive the most attention.
