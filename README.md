@@ -60,7 +60,7 @@ Use machine learning to determine which physiochemical properties make a wine 'g
 
 ## 📦 Install
 
-Open the code ```testing.py``` in Anaconda(Spyder environment) after downloading Anaconda and launchingSpyder environment for windows to simply run it. Before this save the csv files in a folder so that you can fetch it by putting the location of saved file in the code.
+Open the code `testing.py` in Anaconda(Spyder environment) after downloading Anaconda and launchingSpyder environment for windows to simply run it. Before this save the csv files in a folder so that you can fetch it by putting the location of saved file in the code.
 
-Similarly use any other environment according to your preference and run the code line by line by pressing ```Ctrl+Enter```, with single or multiple selections.
+Similarly use any other environment according to your preference and run the code line by line by pressing `Ctrl+Enter`, with single or multiple selections.
 
