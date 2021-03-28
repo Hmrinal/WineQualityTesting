@@ -40,7 +40,7 @@ Each square shows the correlation between the variables on each axis. Correlatio
 - pH: sort describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic); most wines are between 3-4 on the pH scale
 - sulphates: sort a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial.
 
-### Additional features that can be added
+### Additional features that can be added:
 
 What might be an interesting thing to do, is aside from using regression modelling, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as 'good/1' and the remainder as 'not good/0'.
 This allows you to practice with hyper parameter tuning on e.g. decision tree algorithms looking at the ROC curve and the AUC value.
