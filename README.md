@@ -1,6 +1,6 @@
 # Wine Quality Testing
 
-A dataset is taken which is saved as `winequality-red.csv`. First step is to import the necessary libraries like pandas, sklearn, numpy, etc. After this the dataset is read using read_csv and subsequently the feature extraction takes place.
+A dataset is taken which is saved as `winequality-red.csv`. First step is to import the necessary libraries like `pandas, sklearn, numpy, etc`. After this the dataset is read using read_csv and subsequently the feature extraction takes place.
 Visualization of featues is done using the heatmap.
 
 ## 🔨 Basic Working:
@@ -42,7 +42,7 @@ Each square shows the correlation between the variables on each axis. Correlatio
 
 ### Additional features that can be added:
 
-What might be an interesting thing to do, is aside from using regression modelling, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as 'good/1' and the remainder as 'not good/0'.
+What might be an interesting thing to do, is aside from using regression modelling, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as `good/1` and the remainder as `not good/0`.
 This allows you to practice with hyper parameter tuning on e.g. decision tree algorithms looking at the ROC curve and the AUC value.
 Without doing any kind of feature engineering or overfitting you should be able to get an AUC of .88 (without even using random forest algorithm)
 
